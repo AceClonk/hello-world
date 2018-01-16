@@ -1,0 +1,148 @@
+Exporter version: 5.5.0, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  C:\Users\Ich\Desktop\Hogwarts\
+	Python World class constructor completed
+	processing begun of mesh:  Terrain_1
+		processing begun of Standard material:  material_1
+			Ambient texture found "Ka"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+			Bump texture found "Bump.003"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+		num positions      :  30625
+		num normals        :  30625
+		num uvs            :  61250
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  181656
+	processing begun of mesh:  Hogwa9
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  0
+	processing begun of mesh:  Hogwa8
+		processing begun of Standard material:  Building Archwa
+		num positions      :  65002
+		num normals        :  65002
+		num uvs            :  130004
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180246
+	processing begun of mesh:  TooBig7
+		registered as also a user of material:  Building Archwa
+		num positions      :  4278
+		num normals        :  4278
+		num uvs            :  8556
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12000
+	processing begun of mesh:  TooBig6
+		registered as also a user of material:  Building Archwa
+		num positions      :  65002
+		num normals        :  65002
+		num uvs            :  130004
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168672
+	processing begun of mesh:  TooBig5
+		registered as also a user of material:  Building Archwa
+		num positions      :  65001
+		num normals        :  65001
+		num uvs            :  130002
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  146958
+	processing begun of mesh:  Hogwa6
+		processing begun of Standard material:  Astro Roof Back
+			Diffuse texture found "Diffuse.129"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  65003
+		num normals        :  65003
+		num uvs            :  130006
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  171963
+	processing begun of mesh:  TooBig4
+		registered as also a user of material:  Astro Roof Back
+		num positions      :  55162
+		num normals        :  55162
+		num uvs            :  110324
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  146442
+	processing begun of mesh:  TooBig3
+		registered as also a user of material:  Astro Roof Back
+		num positions      :  65000
+		num normals        :  65000
+		num uvs            :  130000
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  150384
+	processing begun of mesh:  TooBig2
+		registered as also a user of material:  Astro Roof Back
+		num positions      :  65003
+		num normals        :  65003
+		num uvs            :  130006
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  148170
+	processing begun of mesh:  TooBig1
+		registered as also a user of material:  Astro Roof Back
+		num positions      :  65001
+		num normals        :  65001
+		num uvs            :  130002
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  172842
+	processing begun of mesh:  Hogwa4
+		processing begun of Standard material:  Chimney
+			Diffuse texture found "Diffuse.102"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  53024
+		num normals        :  53024
+		num uvs            :  106048
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120612
+	processing begun of mesh:  Hogwa3
+		processing begun of Standard material:  B1 Tower Roof1
+			Diffuse texture found "Diffuse.122"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  65002
+		num normals        :  65002
+		num uvs            :  130004
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  126171
+	processing begun of mesh:  TooBig0
+		registered as also a user of material:  B1 Tower Roof1
+		num positions      :  13705
+		num normals        :  13705
+		num uvs            :  27410
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  38103
+	processing begun of mesh:  Hogwarts
+		processing begun of Standard material:  Dark
+			Bump texture found "Bump.002"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+		num positions      :  31199
+		num normals        :  31199
+		num uvs            :  62398
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  83514
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  1 min, 52.6512 secs
